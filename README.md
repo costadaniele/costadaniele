@@ -1,4 +1,10 @@
-### Hi there 👋
+# Bom dia, tudo bem? 👋
+
+- ⚡ Sou uma entusiasta por programação e por várias possibilidades que o computador pode fazer.
+
+- ⚡ Artista que gosta de usar código.
+
+- ⚡ Estudante de código. 
 
 <!--
 **costadaniele/costadaniele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=costadaniele&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

@@ -6,6 +6,14 @@
 
 - ⚡ Estudante de código. 
 
+Entrei no mundo da programação através da Faculdade de Artes Visuais, meus primeiros códigos foram na linguagem Processing e posteriormente com o grupo SONatório comecei a linguagem Sonic Pi, isso entre 2015 e 2016.
+
+Em 2018 entrei no curso de Sistemas para Internet na Fatec Rubens Lara da Baixada Santista. Com isso, aprendi o básico da programação, e tem sido a minha base para a criação de projeto nas linguagens JavaScript.
+
+Em 2020, participei do Mega Hack 3.0 da Shawee, minha função como UX me fez aprender um pouco mais sobre o Universo da programação, me desafiei a tentar o programa reprograma, no qual só participei do Workshop e depois fui para o programa do Serasa, Maria vai com as Devs, no qual participei e com conclui o curso.
+
+2021, meu objetivo é entrar na área de programação, me desafiar e ganhar dinheiro com isso!
+
 <!--
 **costadaniele/costadaniele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

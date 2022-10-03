@@ -20,7 +20,7 @@
 
 📫 
 
-- email: daniele.costa3@fatec.sp.gov.br 
+- email: santoscostadaniele@gmail.com 
 - linkedin: https://www.linkedin.com/in/danieledossantoscosta/ 
 - behance: https://www.behance.net/costadaniele
 - youtube: https://www.youtube.com/channel/UCDQ4oiC4ztt9jdEZ1sUL1GA

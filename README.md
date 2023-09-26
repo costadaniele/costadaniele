@@ -1,22 +1,16 @@
 # Bom dia, tudo bem? 👋
 
-- ⚡ Sou Analista de Teste Jr.
+⚡ Sou Analista de Teste Jr. e Front End ⚡ Sou uma entusiasta por programação e pelas possibilidades de criação pelos computadores. ⚡ Artista que gosta de usar código. 
 
-- ⚡ Sou uma entusiasta por programação e pelas possibilidades de criação pelos computadores.
+🌱 Entrei no mundo da programação através do curso de Artes Visuais. Meus primeiros códigos foram na linguagem Processing e posteriormente com a linguagem Sonic Pi, isso entre 2015 e 2016.
 
-- ⚡ Artista que gosta de usar código.
+💬 Em 2018 entrei no curso de Sistemas para Internet na Fatec Rubens Lara da Baixada Santista. 
 
-- ⚡ Estudante de código. 
+💬 Em 2020, participei do Mega Hack 3.0 da Shawee, minha função como UX me fez aprender um pouco sobre como trabalhar em grupo e ferramentas e funções na qual não conhecia. Nesse mesmo ano, me desafiei a tentar o programa Reprograma, no qual só participei da parte do Workshop. Também participei da seleção para o programa do Serasa, Maria vai com as Devs, no qual participei e conclui o curso.
 
-- 🌱 Entrei no mundo da programação através da Faculdade de Artes Visuais, meus primeiros códigos foram na linguagem Processing e posteriormente com o grupo SONatório comecei a linguagem Sonic Pi, isso entre 2015 e 2016.
+💬 Em 2021, junto ao grupo SONatório codifiquei a web arte "Cápsulas Sonoras" com a biblioteca p5.js.
 
-- 💬 Em 2018 entrei no curso de Sistemas para Internet na Fatec Rubens Lara da Baixada Santista. Com isso, aprendi o básico da programação, e tem sido a minha base para a criação de projetos nas linguagens JavaScript.
-
-- 💬 Em 2020, participei do Mega Hack 3.0 da Shawee, minha função como UX me fez aprender um pouco sobre como trabalhar em grupo e ferramentas e funções na qual não conhecia. Nesse mesmo ano, me desafiei a tentar o programa Reprograma, no qual só participei da parte do Workshop. Também participei da seleção para o programa do Serasa, Maria vai com as Devs, no qual participei e conclui o curso.
-
-- 💬 Em 2021, junto a grupo SONatório codifiquei a web arte "Cápsulas Sonoras" com a biblioteca p5.js.
-
-- 💬 Em 2022, Cápsulas Sonoras se tornará tema de Artigo para o TCC da Fatec Rubens Lara da Baixada Santista. 
+💬 Em 2022, Cápsulas Sonoras se tornou tema de Artigo para o TCC da Fatec Rubens Lara da Baixada Santista.
 
 📫 
 
